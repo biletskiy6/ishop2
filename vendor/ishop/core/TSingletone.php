@@ -2,7 +2,7 @@
 
 namespace ishop;
 
-train TSingletone
+trait TSingletone
 {
     private static $instance;
 
